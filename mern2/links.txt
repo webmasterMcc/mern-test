@@ -1,0 +1,20 @@
+
+
+how to install 
+
+npm init -y
+npm install express body-parser cors mongoose nodemon
+
+
+# links
+https://www.linkedin.com/pulse/how-create-your-first-mern-mongodb-express-js-react-node-sam-barros/
+https://axios-http.com/docs/intro
+
+
+
+terms:
+Express: It’s the server framework (The E in MERN).
+Body Parser: Responsible to get the body off of network request.
+Nodemon: Restart the server when it sees changes (for a better dev experience).
+Cors: Package for providing a Connect/Express middleware that can be used to enable CORS with various options.
+Mongoose: It's an elegant MongoDB object modeling for node.js
